@@ -49,7 +49,7 @@ Elle est organisée autour de deux temps forts :
 
 
 ## :globe_with_meridians: **Campus Descartes, Champs-sur-Marne**
-**Université Gustave Eiffel / GEODATA (ex. ENSG) : Amphi Picard** </br>
+**Université Gustave Eiffel / GEODATA (ex. ENSG) : Amphi Picard** - [carte interactive](https://umap.openstreetmap.fr/en/map/anonymous-edit/1312185:fA0p9bmRXFA6x89ePxQbcvF-48BPHa8yVMoHpvCbPKk) </br>
 6-8 avenue Blaise Pascal </br>
 77420 Champs-sur-Marne
 
