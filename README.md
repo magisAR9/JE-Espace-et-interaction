@@ -1,5 +1,6 @@
 # Journée d'études : Espace et interaction
 
+![alt text](https://github.com/magisAR9/JE-Espace-et-interaction/blob/main/Image_reticular.png)
 
 ## :calendar: **Vendredi 14 novembre 2025 - 9h30** :
 
