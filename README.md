@@ -63,6 +63,6 @@ L'entrée à cette journée d'étude **libre et gratuite**, de même que les rep
 
 ### ℹ️ Organisation
 
-Cette journée interdisciplinaire est organisée par l'animation scientifique RETICULAR (RÉseaux, Territoires en Interactions et interrelations cartographiques) financée par l'Université Gustave Eiffel et coordonnée par le département Aménagement, mobilités, environnement - AME-splott (Françoise BAHOKEN), le département Composants et Systèmes - COSYS-grettia (Étienne Côme) en collaboration avec l'UMR Géographie-cités - équipe PARIS (Marion Maisonobe). Elle est par ailleurs soutenue soutenue par l'Action de Recherche n°9 (Carto)graphie et (Géo)visualisation de données du GdR CNRS MAGIS.
+Cette journée interdisciplinaire est organisée par l'animation scientifique RETICULAR (RÉseaux, Territoires en Interactions et interrelations cartographiques) financée par l'Université Gustave Eiffel et coordonnée par le département Aménagement, mobilités, environnement - AME-splott (Françoise BAHOKEN), le département Composants et Systèmes - COSYS-grettia (Étienne Côme) et le LISIS - Lionel Villard, en collaboration avec l'UMR Géographie-cités - équipe PARIS (Marion Maisonobe). Elle est par ailleurs soutenue soutenue par l'Action de Recherche n°9 (Carto)graphie et (Géo)visualisation de données du GdR CNRS MAGIS.
 
 
