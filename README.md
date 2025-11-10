@@ -3,7 +3,7 @@
 
 ## :calendar: **Vendredi 14 novembre 2025 - 9h30** :
 
-## Présentation
+## 📖 Présentation
 Cette journée présentera les points de vue de plusieurs disciplines sur l’analyse des réseaux d’interactions spatiales et territoriales, en particulier des aspects de modélisation et de production d'indicateurs qu'il est/serait intéressant de géovisualiser.
 
 Elle est organisée autour de deux temps forts : 
