@@ -1,8 +1,8 @@
 # Journée d'études : Espace et interaction
 
-![alt text](https://github.com/magisAR9/JE-Espace-et-interaction/blob/main/Image_reticular.png)
+![alt text](https://raw.githubusercontent.com/magisAR9/JE-Espace-et-interaction/blob/main/Image_reticular.png)
 
-## :calendar: **Vendredi 14 novembre 2025 - 9h30** :
+# 📆  **Vendredi 14 novembre 2025 - 9h30** :
 
 ## 📖 Présentation
 Cette journée présentera les points de vue de plusieurs disciplines sur l’analyse des réseaux d’interactions spatiales et territoriales, en particulier des aspects de modélisation et de production d'indicateurs qu'il est/serait intéressant de géovisualiser.
@@ -11,9 +11,9 @@ Elle est organisée autour de deux temps forts :
 - une matinée portant sur les aspects théoriques et méthodologiques de recherches menées dans plusieurs disciplines (géographie, informatique, économie, sociologie, systèmes complexes, transport) feront l'objet de keynotes ; 
 - une après-midi dédiée à des projets, des retours d’expérience de praticien.nes de la recherche avec des communications plus courtes. 
 
-## :clock10: Programme 
+## 🕙 Programme
 
-### **Concepts et méthodes**
+### Concepts et méthodes
 
 9h30-9h45 > **Accueil café & thé**
 
@@ -34,7 +34,7 @@ Elle est organisée autour de deux temps forts :
 
 **_Pause déjeuner_**
 
-### **Applications**
+### Applications
 
 14h30-14h50 > Sébastian Hörl (informatique) : Université Gustave Eiffel, Département COSYS_grettia & SystemX
 - _[Large-scale agent-based transport simulation models for Île-de-France and Bavaria](https://slides.com/sebastianhorl/seminaire-14nov25#/20)_
@@ -54,7 +54,7 @@ Elle est organisée autour de deux temps forts :
 
 
 
-## :globe_with_meridians: **Campus Descartes, Champs-sur-Marne**
+## 🌐 Campus Descartes, Champs-sur-Marne
 **Université Gustave Eiffel / GEODATA (ex. ENSG) : Amphi Picard** - [carte interactive](https://umap.openstreetmap.fr/en/map/anonymous-edit/1312185:fA0p9bmRXFA6x89ePxQbcvF-48BPHa8yVMoHpvCbPKk) </br>
 6-8 avenue Blaise Pascal </br>
 77420 Champs-sur-Marne
